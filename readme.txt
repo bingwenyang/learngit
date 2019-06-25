@@ -4,4 +4,4 @@ hello word
 Git add
 Git has a mutable index called stage
 Git tracks changes
-Git branch & master
+Create
