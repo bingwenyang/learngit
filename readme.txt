@@ -3,3 +3,4 @@ Git is free software.
 hello word
 Git add
 Git has a mutable index called stage
+Git tracks changes
