@@ -5,3 +5,4 @@ Git add
 Git has a mutable index called stage
 Git tracks changes
 Create
+add merage
